@@ -1,6 +1,6 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Projeto: Recriando a página inicial do Instagram ✨
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Nesse repositório pratiquei conceitos de Flexbox, recriando a interface de login do Instagram! 
 
 ### Os requisitos são:
 
