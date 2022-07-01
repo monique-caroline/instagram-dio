@@ -3,7 +3,7 @@
     margin: 0;
     box-sizing: border-box;
     text-decoration: none;
-    font-family: sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 14px;
 }
 
@@ -33,7 +33,7 @@ body {
 }
 
 .instagram-phone img {
-    height: 50rem;
+    height: 45rem;
 }
 
 .instagram-continue {
@@ -54,6 +54,7 @@ body {
     width: 100%;
     padding: 1.3rem 0;
     border: 1px solid lightgray;
+    border-radius: 5px;
 }
 
 .group:nth-child(1) {
@@ -115,7 +116,7 @@ body {
 
 .app-download {
     height: 3rem;
-    width: 10rem;
+    width: 3rem;
     background-size: cover;
 }
 
